@@ -1,2 +1,3 @@
-# bq
-Binary Quantization in Numpy
+# Binary Quantization in Numpy
+30x Memory Savings
+---
